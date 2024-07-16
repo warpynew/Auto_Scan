@@ -1,7 +1,17 @@
 # Auto_Scan
 scan the IP of your CTF ( in development )
 
-# usage : 
+Il est nécessaire d'installer Scapy, à ne pas confondre avec Scrapy :
+
 ```python
-python Extracteur_TTL.py <IP adress>
+pip install scapy
+python.exe -m pip install --upgrade pip 
+```
+
+# usage : 
+
+
+
+```python
+python .\Extracteur_TTL.py <IP adress>
 ```
