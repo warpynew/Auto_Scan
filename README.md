@@ -2,6 +2,6 @@
 scan the IP of your CTF ( in development )
 
 # usage : 
-```py
+```python
 python Extracteur_TTL.py <IP adress>
 ```
