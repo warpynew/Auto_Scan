@@ -5,6 +5,8 @@ Il est nécessaire d'installer Scapy, à ne pas confondre avec Scrapy :
 
 ```python
 pip install scapy
+
+# si cela est nécessaire 
 python.exe -m pip install --upgrade pip 
 ```
 
